@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav {
+  display: flex;
+}
+.link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #0070f3;
+}
+.link:hover {
+  text-decoration: underline;
+}
